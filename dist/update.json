@@ -1,14 +1,12 @@
 {
- "versionCode": 2030,
- "versionName": "2.30",
- "notes": "新增「给作者的意见」（QQ/微信可复制）；收款码一键保存到相册；版本号规则统一",
+ "versionCode": 2034,
+ "versionName": "2.34",
+ "notes": "修复展开选项/切后台回来时页面自动跳位；Key 改为可展开的五家对比面板；一键生成降为兜底",
  "publishedAt": "2026-11-16",
  "apk": [
   "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
   "https://ghproxy.net/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
   "https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
-  "https://cdn.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
-  "https://fastly.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
-  "https://gcore.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk"
+  "https://cdn.jsdelivr.net/gh/Zzhiyan44/dday@latest/dist/app.apk"
  ]
 }
