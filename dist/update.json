@@ -1,7 +1,7 @@
 {
- "versionCode": 2037,
- "versionName": "2.37",
- "notes": "账号系统：本机注册即可用；填服务器地址可跨设备同步；修复滚动跳位、Key 面板等",
+ "versionCode": 2038,
+ "versionName": "2.38",
+ "notes": "服务器地址已内置，注册后即可跨设备同步；后台可查看注册用户",
  "publishedAt": "2026-11-16",
  "apk": [
   "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
