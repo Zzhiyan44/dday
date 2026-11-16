@@ -1,7 +1,7 @@
 {
- "versionCode": 225,
- "versionName": "2.24",
- "notes": "更新检查支持国内镜像（jsDelivr / ghproxy），一个源打不开自动换下一个",
+ "versionCode": 2030,
+ "versionName": "2.30",
+ "notes": "新增「给作者的意见」（QQ/微信可复制）；收款码一键保存到相册；版本号规则统一",
  "publishedAt": "2026-11-16",
  "apk": [
   "https://cdn.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
