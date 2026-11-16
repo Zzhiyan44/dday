@@ -1,0 +1,13 @@
+{
+ "versionCode": 223,
+ "versionName": "2.23",
+ "notes": "AI 生成计划时同时填好「我的」；修复编辑弹层；各页数据同步",
+ "publishedAt": "2026-11-16",
+ "apk": [
+  "https://cdn.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
+  "https://fastly.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
+  "https://gcore.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
+  "https://ghproxy.net/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
+  "https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk"
+ ]
+}
