@@ -4,11 +4,11 @@
  "notes": "新增「给作者的意见」（QQ/微信可复制）；收款码一键保存到相册；版本号规则统一",
  "publishedAt": "2026-11-16",
  "apk": [
+  "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
+  "https://ghproxy.net/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
+  "https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
   "https://cdn.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
   "https://fastly.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
-  "https://gcore.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk",
-  "https://ghproxy.net/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
-  "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
-  "https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk"
+  "https://gcore.jsdelivr.net/gh/Zzhiyan44/dday@main/dist/app.apk"
  ]
 }
