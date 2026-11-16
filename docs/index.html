@@ -2727,7 +2727,7 @@ document.getElementById('suAI').onclick=function(){
 };
 document.getElementById('updCheck').onclick=function(){
   S.updateUrl=document.getElementById('updUrl').value.trim();
-  save(); checkUpdate(false);
+  save(); if(window.Android && window.Android.httpGet) checkUpdate(false);
 };
 document.getElementById('aiCopyBtn').onclick=function(){
   var t=S.lastAiRaw||'';
@@ -2973,7 +2973,7 @@ var _fixed=repairPlan();
 renderAll();
 if(_fixed) setTimeout(function(){ toast('已修复 '+_fixed+' 周的乱码内容'); }, 900);
 onOrient();
-setTimeout(function(){ if(S.updateUrl) checkUpdate(true); },2000);
+if(window.Android && window.Android.httpGet) setTimeout(function(){ if(S.updateUrl) checkUpdate(true); },2000);
 // 默认：本周还没排任务且有 Key，就自动排一次
 setTimeout(function(){
   try{
