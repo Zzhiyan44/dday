@@ -1,7 +1,7 @@
 {
- "versionCode": 2034,
- "versionName": "2.34",
- "notes": "修复展开选项/切后台回来时页面自动跳位；Key 改为可展开的五家对比面板；一键生成降为兜底",
+ "versionCode": 2037,
+ "versionName": "2.37",
+ "notes": "账号系统：本机注册即可用；填服务器地址可跨设备同步；修复滚动跳位、Key 面板等",
  "publishedAt": "2026-11-16",
  "apk": [
   "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
