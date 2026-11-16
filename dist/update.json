@@ -1,7 +1,7 @@
 {
- "versionCode": 2038,
- "versionName": "2.38",
- "notes": "服务器地址已内置，注册后即可跨设备同步；后台可查看注册用户",
+ "versionCode": 2039,
+ "versionName": "2.39",
+ "notes": "检查更新改走国内可访问的服务器（它在国外替你问 GitHub），更快更稳",
  "publishedAt": "2026-11-16",
  "apk": [
   "https://ghfast.top/https://github.com/Zzhiyan44/dday/releases/latest/download/app.apk",
